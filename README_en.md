@@ -4,22 +4,29 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-luis-bernardos/)
 [![Yahoo](https://img.shields.io/badge/-Yahoo-6001D2?style=flat&logo=Yahoo&logoColor=white)](mailto:bernardospedro@yahoo.com)
 
-### 🗺️ Other languages
+## 🗺️ Other languages
 
 * <a href="README.md">🇫🇷 Français</a>
 * <a href="README_en.md">🇬🇧 English</a>
 * <a href="README_es.md">🇻🇪 Español</a>
 
-### 👨‍💻 Who am I?
+## 👨‍💻 Who am I?
 
 <p  align="justify"><samp>I am a graduate of the Bachelor's degree in Computer Science and Software Engineering at UQAM. For about a year I have been working as a proofreader and laboratory demonstrator at my university. I also have some experience in computer science acquired through contracts with several organizations and internships! I have a great facility to learn by myself and I take the opportunity to learn new programming languages! Currently, I have a great interest in web development, Python, Java and Haskell languages as well as scripting, but I am still open to the idea of exploring new notions😃!</samp></p>
+
+### ![mana simic](https://cubecobra.com/content/symbols/g-u.png) Interests
+
+* 🎲 Magic the Gathering -> I like to play [EDH (commander)](https://www.moxfield.com/decks/LUFEeCnxjEen0gi1_hKYWA) and [to draft](https://cubecobra.com/cube/overview/salade) with my friends
+* 🎮 Video games -> I like to play videos on Switch or PC
+* ⚔️ Table gams -> I like to play table games or DnD
+* 🍻 Microbrewery -> I like to discover beer from [microbrewery](https://pedroluisbernardos.github.io/Guide-complet-de-la-microbrasserie-QC/) and expand my palette
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PedroLuisBernardos&style=plastic&label=Views"><img>
   <img src="https://badges.pufler.dev/visits/PedroLuisBernardos/PedroLuisBernardos?color=black&logo=github" />
 </p>
 
-### 💻 Tecnologies 🖱️
+## 💻 Tecnologies 🖱️
 
 ### Programming languages
 
