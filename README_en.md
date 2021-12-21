@@ -18,7 +18,7 @@
 
 * 🎲 Magic the Gathering -> I like to play [EDH (commander)](https://www.moxfield.com/decks/LUFEeCnxjEen0gi1_hKYWA) and [to draft](https://cubecobra.com/cube/overview/salade) with my friends
 * 🎮 Video games -> I like to play videos on Switch or PC
-* ⚔️ Table gams -> I like to play table games or DnD
+* ⚔️ Table games -> I like to play table games or DnD
 * 🍻 Microbrewery -> I like to discover beer from [microbrewery](https://pedroluisbernardos.github.io/Guide-complet-de-la-microbrasserie-QC/) and expand my palette
 
 <p align="center">
