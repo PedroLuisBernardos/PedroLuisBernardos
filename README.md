@@ -4,22 +4,29 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-luis-bernardos/)
 [![Yahoo](https://img.shields.io/badge/-Yahoo-6001D2?style=flat&logo=Yahoo&logoColor=white)](mailto:bernardospedro@yahoo.com)
 
-### 🗺️ Other languages
+## 🗺️ Other languages
 
 * <a href="README.md">🇫🇷 Français</a>
 * <a href="README_en.md">🇬🇧 English</a>
 * <a href="README_es.md">🇻🇪 Español</a>
 
-### 👨‍💻 Qui suis-je ?
+## 👨‍💻 Qui suis-je ?
 
-<p  align="justify"><samp>Je suis un finissant du baccalauréat en Informatique et Génie Logiciel à l'UQAM. Depuis à peu près un an je travaille comme correcteur et démonstrateur de laboratoire à mon université. J'ai aussi quelques expériences en informatique acquises grâce à des contrats chez plusieurs organismes et des stages !<br>J'ai une grande facilité à apprendre par moi-même et j'en profite pour apprendre des nouveaux langages de programmation ! Présentement, j'ai un grand intérêt pour le développement Web, pour les langages Python, Java et Haskell ainsi que pour le scripting, mais je reste tout de même ouvert à l'idée d'explorer des nouvelles notions 😃 !</samp></p>
+<p  align="justify"><samp>Je suis un finissant du baccalauréat en Informatique et Génie Logiciel à l'UQAM. Depuis à peu près un an, je travaille comme correcteur et démonstrateur de laboratoire à mon université. J'ai aussi quelques expériences en informatique acquises grâce à des contrats chez plusieurs organismes et des stages !<br>J'ai une grande facilité à apprendre par moi-même et j'en profite pour apprendre de nouveaux langages de programmation ! Présentement, j'ai un grand intérêt pour le développement Web, pour les langages Python, Java et Haskell ainsi que pour le scripting, mais je reste tout de même ouvert à l'idée d'explorer de nouvelles notions 😃 !</samp></p>
+
+### ![mana simic](https://cubecobra.com/content/symbols/g-u.png) Intérêts
+
+* 🎲 Magic the Gathering -> j'aime beaucoup jouer à [EDH (commander)](https://www.moxfield.com/decks/LUFEeCnxjEen0gi1_hKYWA) et [drafter](https://cubecobra.com/cube/overview/salade) avec des amis
+* 🎮 Jeux vidéo -> j'aime jouer à des jeux vidéo sur la Switch ou sur PC
+* ⚔️ Jeux de table -> j'aime jouer à des jeux de table ou à DnD
+* 🍻 Microbrasserie -> j'aime beaucoup découvrir de la bière de [microbrasserie](https://pedroluisbernardos.github.io/Guide-complet-de-la-microbrasserie-QC/) et d'élargir ma palette
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PedroLuisBernardos&style=plastic&label=Views"><img>
   <img src="https://badges.pufler.dev/visits/PedroLuisBernardos/PedroLuisBernardos?color=black&logo=github" />
 </p>
 
-### 💻 Tecnologies 🖱️
+## 💻 Tecnologies 🖱️
 
 ### Langages de programmation
 
@@ -67,7 +74,7 @@ technologies supplémentaires
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Atlassian&logoColor=white)
 ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat&logo=Confluence&logoColor=white)
 
-### 🐚 Technologies que j'ai déjà essayées mais je maîtrise moins 🐁
+### 🐚 Technologies que j'ai déjà essayées, mais je maîtrise moins 🐁
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=Cplusplus&logoColor=white)
 ![SWI-Prolog](https://img.shields.io/badge/-Prolog-000000?style=flat)
