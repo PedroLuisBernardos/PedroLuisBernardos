@@ -67,7 +67,7 @@
 ### 🐚 Technologies que j'ai déjà essayées mais je maîtrise moins 🐁
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=Cplusplus&logoColor=white)
-![SWI-Prolog](https://img.shields.io/badge/-SWI-Prolog-000000?style=flat)
+![SWI-Prolog](https://img.shields.io/badge/-Prolog-000000?style=flat)
 ![Velocity](https://img.shields.io/badge/-Velocity-000000?style=flat)
 ![Groovy](https://img.shields.io/badge/-Groovy-4298B8?style=flat&logo=ApacheGroovy&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)
