@@ -4,22 +4,29 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-luis-bernardos/)
 [![Yahoo](https://img.shields.io/badge/-Yahoo-6001D2?style=flat&logo=Yahoo&logoColor=white)](mailto:bernardospedro@yahoo.com)
 
-### 🗺️ Other languages
+## 🗺️ Other languages
 
 * <a href="README.md">🇫🇷 Français</a>
 * <a href="README_en.md">🇬🇧 English</a>
 * <a href="README_es.md">🇻🇪 Español</a>
 
-### 👨‍💻 ¿Quien soy?
+## 👨‍💻 ¿Quien soy?
 
 <p  align="justify"><samp>Soy egresado del Grado en Ciencias de la Computación e Ingeniería de Software de la UQAM. Durante aproximadamente un año he estado trabajando como corrector y demostrador de laboratorio en mi universidad. También tengo cierta experiencia en informática adquirida a través de contratos con varias organizaciones y pasantías. Tengo una gran facilidad para aprender por mí mismo y aprovecho la oportunidad para aprender nuevos lenguajes de programación! Actualmente, tengo un gran interés en el desarrollo web, Python, Java y Haskell, así como en el scripting, pero todavía estoy abierto a la idea de explorar nuevas nociones 😃!</samp></p>
+
+### ![mana simic](https://cubecobra.com/content/symbols/g-u.png) Interéses
+
+* 🎲 Magic the Gathering -> me gusta jugar [EDH (commander)](https://www.moxfield.com/decks/LUFEeCnxjEen0gi1_hKYWA) y hacer [drafts](https://cubecobra.com/cube/overview/salade) con mis amigos
+* 🎮 Videojuegos -> me gusta jugar videojuegos en la Switch o en PC
+* ⚔️ Juegos de mesa -> me gusta jugar a juegos de mesa y a DnD
+* 🍻 Microcervecería -> me gusta descubrir cerbeza de [microcervecería](https://pedroluisbernardos.github.io/Guide-complet-de-la-microbrasserie-QC/) y expandir mi paleta
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PedroLuisBernardos&style=plastic&label=Views"><img>
   <img src="https://badges.pufler.dev/visits/PedroLuisBernardos/PedroLuisBernardos?color=black&logo=github" />
 </p>
 
-### 💻 Tecologías 🖱️
+## 💻 Tecologías 🖱️
 
 ### Lenguajes de programación
 
