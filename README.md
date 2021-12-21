@@ -19,27 +19,36 @@
   <img src="https://badges.pufler.dev/visits/PedroLuisBernardos/PedroLuisBernardos?color=black&logo=github" />
 </p>
 
-### 🐚 Les technologies que je maîtrise le mieux 🐁
+### 💻 Les technologies que je maîtrise le mieux 🖱️
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/haskell/haskell-horizontal.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
-<br>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-<br>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
+![Haskell](https://img.shields.io/badge/-Haskell-6001D2?style=flat&logo=Haskell&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-6001D2?style=flat&logo=SQLite&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-6001D2?style=flat&logo=SQLAlchemy&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-6001D2?style=flat&logo=Git&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-6001D2?style=flat&logo=GNU-Bash&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-6001D2?style=flat&logo=Flask&logoColor=white)
+![JSON](https://img.shields.io/badge/-JSON-6001D2?style=flat&logo=JSON&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-6001D2?style=flat&logo=HTML5&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-6001D2?style=flat&logo=VisualStudioCode&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=IntelliJIDEA&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-6001D2?style=flat&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-6001D2?style=flat&logo=JavaScript&logoColor=white)
+![Jinja2](https://img.shields.io/badge/-Jinja2-6001D2?style=flat&logo=Jinja&logoColor=white)
 
-### 💻 Mes projets
+### 🐚 Les autres technologies que j'ai déjà essayées 🐁
 
-<p align="center">
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroLuisBernardos&repo=INF5190" />
-  </a>
-  <a href="https://github.com/onimur/circleci-github-changelog-generator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroLuisBernardos&repo=INM5151" />
-  </a>
-</p>
+![C](https://img.shields.io/badge/-C-6001D2?style=flat&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-6001D2?style=flat&logo=Cplusplus&logoColor=white)
+![Vagrant](https://img.shields.io/badge/-Vagrant-6001D2?style=flat&logo=Vagrant&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-6001D2?style=flat&logo=Docker&logoColor=white)
+![Maven](https://img.shields.io/badge/-Maven-6001D2?style=flat&logo=Apache-Maven&logoColor=white)
+![VBA](https://img.shields.io/badge/-VBA-6001D2?style=flat&logo=VBA&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-6001D2?style=flat&logo=MongoDB&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-6001D2?style=flat&logo=Jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/-Confluence-6001D2?style=flat&logo=Confluence&logoColor=white)
+![YAML](https://img.shields.io/badge/-YAML-6001D2?style=flat&logo=YAML&logoColor=white)
+![RAML](https://img.shields.io/badge/-RAML-6001D2?style=flat&logo=RAML&logoColor=white)
+
+### 💻⬇️ Mes projets ⬇️💻
