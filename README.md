@@ -19,7 +19,7 @@
 * 🎲 Magic the Gathering -> j'aime beaucoup jouer à [EDH (commander)](https://www.moxfield.com/decks/LUFEeCnxjEen0gi1_hKYWA) et [drafter](https://cubecobra.com/cube/overview/salade) avec des amis
 * 🎮 Jeux vidéo -> j'aime jouer à des jeux vidéo sur la Switch ou sur PC
 * ⚔️ Jeux de table -> j'aime jouer à des jeux de table ou à DnD
-* 🍻 Microbrasserie -> j'aime beaucoup découvrir de la bière de [microbrasserie](https://pedroluisbernardos.github.io/Guide-complet-de-la-microbrasserie-QC/) et d'élargir ma palette
+* 🍻 Microbrasserie -> j'aime découvrir de la bière de [microbrasserie](https://pedroluisbernardos.github.io/Guide-complet-de-la-microbrasserie-QC/) et d'élargir ma palette
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PedroLuisBernardos&style=plastic&label=Views"><img>
