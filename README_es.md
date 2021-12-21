@@ -29,9 +29,12 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)
 ![VBA](https://img.shields.io/badge/-VBA-217346?style=flat&logo=MicrosoftExcel&logoColor=white)
-<br>
+
+tecnologías adicionales
+
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white)
-![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=Apache-Maven&logoColor=white)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=ApacheMaven&logoColor=white)
+![JUnit](https://img.shields.io/badge/tests-JUnit-25A162?style=flat)
 
 ### Base de datos
 
@@ -70,6 +73,7 @@
 ![SWI-Prolog](https://img.shields.io/badge/-Prolog-000000?style=flat)
 ![Velocity](https://img.shields.io/badge/-Velocity-000000?style=flat)
 ![Groovy](https://img.shields.io/badge/-Groovy-4298B8?style=flat&logo=ApacheGroovy&logoColor=white)
+![AngularJS](https://img.shields.io/badge/-AngularJS-E23237?style=flat&logo=AngularJS&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=EclipseIDE&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/-Vagrant-1868F2?style=flat&logo=Vagrant&logoColor=white)
@@ -78,6 +82,5 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/-OpenShift-EE0000?style=flat&logo=RedHatOpenShift&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
-![xUnit](https://img.shields.io/badge/-xUnit-000000?style=flat)
 
 # 💻⬇️ Mis projectos ⬇️💻
