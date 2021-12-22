@@ -3,6 +3,7 @@
 [![Github](https://img.shields.io/badge/-Github-181717?style=flat&logo=Github&logoColor=white)](https://github.com/PedroLuisBernardos)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-luis-bernardos/)
 [![Yahoo](https://img.shields.io/badge/-Yahoo-6001D2?style=flat&logo=Yahoo&logoColor=white)](mailto:bernardospedro@yahoo.com)
+[![Youtube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCynRqI7rifSaJbYgb_j2OAQ)
 
 ## 🗺️ Other languages
 
@@ -19,6 +20,7 @@
 * 🎲 Magic the Gathering -> I like to play [EDH (commander)](https://www.moxfield.com/decks/LUFEeCnxjEen0gi1_hKYWA) and [to draft](https://cubecobra.com/cube/overview/salade) with my friends
 * 🎮 Video games -> I like to play videos on Switch or PC
 * ⚔️ Table games -> I like to play table games or DnD
+* 🚵‍♀️ Sports -> I like to jogg, to bike and to go to the gym
 * 🍻 Microbrewery -> I like to discover beer from [microbrewery](https://pedroluisbernardos.github.io/Guide-complet-de-la-microbrasserie-QC/) and expand my palette
 
 <p align="center">
