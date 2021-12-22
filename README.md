@@ -92,4 +92,4 @@ technologies supplémentaires
 ![OpenShift](https://img.shields.io/badge/-OpenShift-EE0000?style=flat&logo=RedHatOpenShift&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
 
-<p align="center"><h2>💻⬇️ Mes projets ⬇️💻</h2></p>
+<h2 align="center"=>💻⬇️ Mes projets ⬇️💻</h2>
