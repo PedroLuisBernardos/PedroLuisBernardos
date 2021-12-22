@@ -13,7 +13,7 @@
 
 ## 👨‍💻 Qui suis-je ?
 
-<p  align="justify"><samp>Je suis un finissant du baccalauréat en Informatique et Génie Logiciel à l'UQAM. Depuis à peu près un an, je travaille comme correcteur et démonstrateur de laboratoire à mon université. J'ai aussi quelques expériences en informatique acquises grâce à des contrats chez plusieurs organismes et des stages !<br>J'ai une grande facilité à apprendre par moi-même et j'en profite pour apprendre de nouveaux langages de programmation ! Présentement, j'ai un grand intérêt pour le développement Web, pour les langages Python, Java et Haskell ainsi que pour le scripting, mais je reste tout de même ouvert à l'idée d'explorer de nouvelles notions 😃 !</samp></p>
+<p align="justify"><samp>Je suis un finissant du baccalauréat en Informatique et Génie Logiciel à l'UQAM. Depuis à peu près un an, je travaille comme correcteur et démonstrateur de laboratoire à mon université. J'ai aussi quelques expériences en informatique acquises grâce à des contrats chez plusieurs organismes et des stages !<br>J'ai une grande facilité à apprendre par moi-même et j'en profite pour apprendre de nouveaux langages de programmation ! Présentement, j'ai un grand intérêt pour le développement Web, pour les langages Python, Java et Haskell ainsi que pour le scripting, mais je reste tout de même ouvert à l'idée d'explorer de nouvelles notions 😃 !</samp></p>
 
 ### ![mana simic](https://cubecobra.com/content/symbols/g-u.png) Intérêts
 
@@ -92,4 +92,4 @@ technologies supplémentaires
 ![OpenShift](https://img.shields.io/badge/-OpenShift-EE0000?style=flat&logo=RedHatOpenShift&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
 
-# 💻⬇️ Mes projets ⬇️💻
+<p align="center"><h2>💻⬇️ Mes projets ⬇️💻</h2></p>
