@@ -21,7 +21,7 @@
 * 🎮 Videojuegos -> me gusta jugar videojuegos en la Switch o en PC
 * ⚔️ Juegos de mesa -> me gusta jugar a juegos de mesa y a DnD
 * 🚵‍♀️ Deportes -> me gusta trotar, hacer bicicleta e ir al gimnasio
-* 🍻 Microcervecería -> me gusta descubrir cerbeza de [microcervecería](https://pedroluisbernardos.github.io/Guide-complet-de-la-microbrasserie-QC/) y expandir mi paleta
+* 🍻 Microcervecería -> me gusta descubrir cerbeza de [microcervecería](https://pedroluisbernardos.github.io/Le-Guide-pour-debutants-sur-la-Microbrasserie-Quebecoise/) y expandir mi paleta
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PedroLuisBernardos&style=plastic&label=Views"><img>
