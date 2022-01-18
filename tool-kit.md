@@ -10,4 +10,4 @@
 * [Ubuntu](https://www.microsoft.com/en-us/p/ubuntu/9nblggh4msv6)
 * [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 * [Firefox](https://www.mozilla.org/firefox/download/thanks/)
-  * [Add-ons](add-ons-firefox.png)
+  * [Add-ons](add-ons-firefox.pdf)
