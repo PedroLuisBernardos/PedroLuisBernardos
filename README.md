@@ -19,7 +19,7 @@
 
 * 🎲 Magic the Gathering -> j'aime beaucoup jouer à [EDH (commander)](https://www.moxfield.com/decks/LUFEeCnxjEen0gi1_hKYWA) et [drafter](https://cubecobra.com/cube/overview/salade) avec des amis
 * 🎮 Jeux vidéo -> j'aime jouer à des jeux vidéo sur la Switch ou sur PC
-* ⚔️ Jeux de table -> j'aime jouer à des jeux de table ou à DnD
+* ⚔️ Jeux de table -> j'aime jouer à des jeux de table et à DnD
 * 🚵‍♀️ Sports -> j'aime faire du jogging, du vélo et aller au gym
 * 🍻 Microbrasserie -> j'aime découvrir de la bière de [microbrasserie](https://pedroluisbernardos.github.io/Le-Guide-pour-debutants-sur-la-Microbrasserie-Quebecoise/) et d'élargir ma palette
 
@@ -82,6 +82,7 @@ technologies supplémentaires
 ![SWI-Prolog](https://img.shields.io/badge/-Prolog-000000?style=flat)
 ![Velocity](https://img.shields.io/badge/-Velocity-000000?style=flat)
 ![Groovy](https://img.shields.io/badge/-Groovy-4298B8?style=flat&logo=ApacheGroovy&logoColor=white)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=white)
 ![AngularJS](https://img.shields.io/badge/-AngularJS-E23237?style=flat&logo=AngularJS&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=EclipseIDE&logoColor=white)
