@@ -24,3 +24,4 @@
 * [Turtl](https://turtlapp.com/download/)
 * [μTorrent Web](https://www.utorrent.com/web/)
 * [MP3 Tag](https://www.mp3tag.de/en/download.html)
+* [Lato](https://fonts.google.com/specimen/Lato)
