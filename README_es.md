@@ -7,8 +7,8 @@
 
 ## 🗺️ Other languages
 
-* <a href="README.md">🇫🇷 Français</a>
-* <a href="README_en.md">🇬🇧 English</a>
+* <a href="README_fr.md">🇫🇷 Français</a>
+* <a href="README.md">🇬🇧 English</a>
 * <a href="README_es.md">🇻🇪 Español</a>
 
 ## 👨‍💻 ¿Quien soy?
@@ -75,21 +75,22 @@ tecnologías adicionales
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Atlassian&logoColor=white)
 ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat&logo=Confluence&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/-OpenShift-EE0000?style=flat&logo=RedHatOpenShift&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
+![Groovy](https://img.shields.io/badge/-Groovy-4298B8?style=flat&logo=ApacheGroovy&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=Jenkins&logoColor=white)
 
 ### 🐚 Tecnologías que ya he probado pero con las que estoy menos familiarizado 🐁
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=Cplusplus&logoColor=white)
 ![SWI-Prolog](https://img.shields.io/badge/-Prolog-000000?style=flat)
 ![Velocity](https://img.shields.io/badge/-Velocity-000000?style=flat)
-![Groovy](https://img.shields.io/badge/-Groovy-4298B8?style=flat&logo=ApacheGroovy&logoColor=white)
 ![AngularJS](https://img.shields.io/badge/-AngularJS-E23237?style=flat&logo=AngularJS&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=EclipseIDE&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/-Vagrant-1868F2?style=flat&logo=Vagrant&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=macOS&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white)
-![OpenShift](https://img.shields.io/badge/-OpenShift-EE0000?style=flat&logo=RedHatOpenShift&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
 
 # 💻⬇️ Mis projectos ⬇️💻
