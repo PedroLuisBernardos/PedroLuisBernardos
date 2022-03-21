@@ -7,8 +7,8 @@
 
 ## 🗺️ Other languages
 
-* <a href="README.md">🇫🇷 Français</a>
-* <a href="README_en.md">🇬🇧 English</a>
+* <a href="README_fr.md">🇫🇷 Français</a>
+* <a href="README.md">🇬🇧 English</a>
 * <a href="README_es.md">🇻🇪 Español</a>
 
 ## 👨‍💻 Who am I?
