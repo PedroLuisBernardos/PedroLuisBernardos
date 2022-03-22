@@ -28,7 +28,7 @@
   <img src="https://badges.pufler.dev/visits/PedroLuisBernardos/PedroLuisBernardos?color=black&logo=github" />
 </p>
 
-## 💻 Tecnologies 🖱️
+## 💻 Technologies 🖱️
 
 ### Programming languages
 
