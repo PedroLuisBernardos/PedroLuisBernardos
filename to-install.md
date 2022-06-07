@@ -14,6 +14,7 @@
 * [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 * [Firefox](https://www.mozilla.org/firefox/download/thanks/)
   * [Add-ons](add-ons-firefox.pdf)
+* [Greenshot](https://getgreenshot.org/downloads/)
 
 ## Personal
 
