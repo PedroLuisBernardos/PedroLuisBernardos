@@ -31,7 +31,7 @@
 
 ### Langages de programmation
 
-![AngularJS](https://img.shields.io/badge/-AngularJS-E23237?style=flat&logo=AngularJS&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=Angular&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)
 ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=Haskell&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
