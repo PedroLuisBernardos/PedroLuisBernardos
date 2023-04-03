@@ -18,7 +18,7 @@
 ### ![mana simic](https://cubecobra.com/content/symbols/g-u.png) Intérêts
 
 * 🧙 Magic the Gathering -> j'aime beaucoup jouer à [EDH (commander)](https://www.moxfield.com/decks/LUFEeCnxjEen0gi1_hKYWA) et [drafter](https://cubecobra.com/cube/overview/salade) avec des amis
-* * 🔮 Yu-Gi-Oh -> J'aime jouer et participer à des tournois Yu-Gi-Oh
+* 🔮 Yu-Gi-Oh -> J'aime jouer et participer à des tournois Yu-Gi-Oh
 * 🎮 Jeux vidéo -> j'aime jouer à des jeux vidéo sur mes PS2/3/4
 * 🎲 Jeux de table -> j'aime jouer à des jeux de table
 * 🚵‍♀️ Sports -> j'aime faire du jogging, du vélo et aller au gym
