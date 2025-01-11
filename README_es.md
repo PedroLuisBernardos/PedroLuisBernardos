@@ -12,7 +12,13 @@
 
 ## 👨‍💻 ¿Quien soy?
 
-<p  align="justify"><samp>Me gradué del Grado en Ciencias de la Computación e Ingeniería de Software de la UQAM en 2023. Hice dos pasantías como programador en Hydro-Québec e Intact. Presentemente, trabajo para ALTEN como consultante para la Société Générale. También tengo cierta experiencia en informática adquirida a través de contratos con varias organizaciones y pasantías. Tengo una gran facilidad para aprender por mí mismo y aprovecho la oportunidad para aprender nuevos lenguajes de programación! Actualmente, tengo un gran interés en el desarrollo web, Java, SpringBoot, Angular y React, pero todavía estoy abierto a la idea de explorar nuevas nociones 😃!</samp></p>
+<p  align="justify"><samp>Actualmente soy estudiante de Maestría en Gestión de Proyectos en la ESG UQAM, con experiencia en DevOps e ingeniería de software. Después de tres años en roles técnicos y organizacionales, estoy buscando expandir mis habilidades en gestión de proyectos, particularmente en los sectores de videojuegos, juegos de mesa, aprendizaje digital y proyectos creativos.
+
+Apasionado por el desarrollo de juegos, he trabajado en proyectos como Pokéssonne, una versión de Pokémon de Carcassonne, y la creación de tutoriales de juegos de mesa 🎲. Autodidacta y muy organizado 📚, siempre estoy en busca de nuevos desafíos.
+
+También hablo con fluidez inglés 🇬🇧 y español 🇪🇸, lo que me permite adaptarme a diferentes entornos profesionales.
+
+Actualmente estoy buscando una pasantía en gestión de proyectos para este verano y estoy abierto a oportunidades en gestión de proyectos y en los sectores creativos/tecnológicos.</samp></p>
 
 ### ![mana simic](https://cubecobra.com/content/symbols/g-u.png) Interéses
 
