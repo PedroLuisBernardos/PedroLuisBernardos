@@ -12,7 +12,13 @@
 
 ## 👨‍💻 Who am I?
 
-<p  align="justify"><samp>In 2023, I graduated from the Bachelor's degree in Computer Science and Software Engineering at UQAM. I had two internships as a developper: one at Hydro-Québec and one at Intact. I am currently working for ALTEN as a contractor for the Société Générale. I have a great facility to learn by myself and I take the opportunity to learn new programming languages! Currently, I have a great interest in full stack web development; I really enjoy coding in Java, SpringBoot, Angular and React but I am still open to the idea of exploring new notions 😃!</samp></p>
+<p  align="justify"><samp>I am currently a Master's student in Project Management at ESG UQAM, with experience in DevOps and software engineering. After three years in technical and organizational roles, I am looking to expand my skills in project management, particularly in the video game, board game, digital learning, and creative project sectors.
+
+Passionate about game development, I have worked on projects such as Pokéssonne, a Pokémon version of Carcassonne, and the creation of board game tutorials 🎲. Self-taught and highly organized 📚, I am always seeking new challenges.
+
+I am also fluent in English 🇬🇧 and Spanish 🇪🇸, which allows me to adapt to various professional environments.
+
+I am actively seeking a project management internship for this summer and open to opportunities in project management and the creative/tech sectors.</samp></p>
 
 ### ![mana simic](https://cubecobra.com/content/symbols/g-u.png) Interests
 
