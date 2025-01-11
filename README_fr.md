@@ -12,7 +12,13 @@
 
 ## 👨‍💻 Qui suis-je ?
 
-<p  align="justify"><samp>J'ai gradué du BAC en informatique et Génie Logiciel à l'UQAM en 2023. J'ai fait des stages comme développeur: l'un chez Hydro-Québec et l'autre chez Intact. Présentement je travaille chez ALTEN comme consultant chez la Société Générale. J'ai une grande facilité à apprendre par moi-même et j'en profite pour apprendre de nouveaux langages de programmation ! Présentement, j'ai un grand intérêt pour le développement web; j'aime beaucoup coder en Java, SpringBoot, Angular et React mais je suis ouvert à l'idée d'explorer des nouvelles notions 😃!</samp></p>
+<p  align="justify"><samp>Je suis actuellement étudiant en maîtrise en gestion de projets à l'ESG UQAM, avec une expérience en DevOps et en génie logiciel. Après trois ans d'expérience dans des rôles techniques et organisationnels, je cherche à élargir mes compétences en gestion de projets, en particulier dans les secteurs du jeu vidéo, du jeu de société, de l'apprentissage numérique, et des projets créatifs.
+
+Passionné par le développement de jeux, j'ai travaillé sur des projets comme Pokéssonne, une version Pokémon de Carcassonne, et la création de tutoriels de jeux de société 🎲. Autodidacte et très organisé 📚, je suis toujours à la recherche de nouveaux défis.
+
+Je parle également couramment anglais 🇬🇧 et espagnol 🇪🇸, ce qui me permet de m'adapter à divers environnements professionnels.
+
+Je suis activement à la recherche d'un stage en gestion de projets pour cet été et ouvert aux opportunités dans la gestion de projets et les secteurs créatifs/technologiques.</samp></p>
 
 ### ![mana simic](https://cubecobra.com/content/symbols/g-u.png) Intérêts
 
