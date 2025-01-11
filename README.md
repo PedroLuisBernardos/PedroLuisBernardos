@@ -22,10 +22,10 @@
 
 ### ![mana simic](https://cubecobra.com/content/symbols/g-u.png) Interests
 
+* 🎲 Table games -> I like to play table games. I even made my Pokémon version of Carcassonne: [Pokéssonne](https://www.reddit.com/r/Carcassonne/comments/1hcc5xi/pok%C3%A9ssonne_20/)
 * 🧙 Magic the Gathering -> I like to play [EDH (commander)](https://www.moxfield.com/decks/LUFEeCnxjEen0gi1_hKYWA) and [to draft](https://cubecobra.com/cube/overview/salade) with my friends
-* 🔮 Yu-Gi-Oh -> I like to play and participate in Yu-gi-Oh tournaments
+* 🔮 Yu-Gi-Oh -> I like to play and participate in Yu-gi-Oh tournaments. I even made a guide of my favorite deck: [Tearlaments](https://pedroluisbernardos.github.io/Tearlaments-Guide/)
 * 🎮 Video games -> I like to play video games on my PS2/3/4
-* 🎲 Table games -> I like to play table games
 * 🚵‍♀️ Sports -> I like to jogg, to bike and to go to the gym
 * 🍻 Microbrewery -> I like to discover beer from [microbrewery](https://pedroluisbernardos.github.io/Le-Guide-pour-debutants-sur-la-Microbrasserie-Quebecoise/) and expand my palette
 
