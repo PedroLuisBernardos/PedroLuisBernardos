@@ -12,13 +12,13 @@
 
 ## 👨‍💻 Qui suis-je ?
 
-<p  align="justify"><samp>Je suis actuellement étudiant en maîtrise en gestion de projets à l'ESG UQAM, avec une expérience en DevOps et en génie logiciel. Après trois ans d'expérience dans des rôles techniques et organisationnels, je cherche à élargir mes compétences en gestion de projets, en particulier dans les secteurs du jeu vidéo, du jeu de société, de l'apprentissage numérique, et des projets créatifs.
+<p  align="justify"><samp>Je suis actuellement étudiant en maîtrise en gestion de projets à l'ESG UQAM, avec une expérience en DevOps et en génie logiciel. Après trois ans d'expérience dans des rôles techniques et organisationnels, je cherche à élargir mes compétences en gestion de projets, en particulier dans les secteurs du jeu vidéo, du jeu de société, de l'apprentissage numérique, et des projets créatifs.</samp></p>
 
-Passionné par le développement de jeux, j'ai travaillé sur des projets comme Pokéssonne, une version Pokémon de Carcassonne, et la création de tutoriels de jeux de société 🎲. Autodidacte et très organisé 📚, je suis toujours à la recherche de nouveaux défis.
+<p  align="justify"><samp>Passionné par le développement de jeux, j'ai travaillé sur des projets comme Pokéssonne, une version Pokémon de Carcassonne, et la création de tutoriels de jeux de société 🎲. Autodidacte et très organisé 📚, je suis toujours à la recherche de nouveaux défis.</samp></p>
 
-Je parle également couramment anglais 🇬🇧 et espagnol 🇪🇸, ce qui me permet de m'adapter à divers environnements professionnels.
+<p  align="justify"><samp>Je parle également couramment anglais 🇬🇧 et espagnol 🇪🇸, ce qui me permet de m'adapter à divers environnements professionnels.</samp></p>
 
-Je suis activement à la recherche d'un stage en gestion de projets pour cet été et ouvert aux opportunités dans la gestion de projets et les secteurs créatifs/technologiques.</samp></p>
+<p  align="justify"><samp>Je suis activement à la recherche d'un stage en gestion de projets pour cet été et ouvert aux opportunités dans la gestion de projets et les secteurs créatifs/technologiques.</samp></p>
 
 ### ![mana simic](https://cubecobra.com/content/symbols/g-u.png) Intérêts
 
