@@ -12,13 +12,13 @@
 
 ## 👨‍💻 Who am I?
 
-<p  align="justify"><samp>I am currently a Master's student in Project Management at ESG UQAM, with experience in DevOps and software engineering. After three years in technical and organizational roles, I am looking to expand my skills in project management, particularly in the video game, board game, digital learning, and creative project sectors.
+<p  align="justify"><samp>I am currently a Master's student in Project Management at ESG UQAM, with experience in DevOps and software engineering. After three years in technical and organizational roles, I am looking to expand my skills in project management, particularly in the video game, board game, digital learning, and creative project sectors.</samp></p>
 
-Passionate about game development, I have worked on projects such as Pokéssonne, a Pokémon version of Carcassonne, and the creation of board game tutorials 🎲. Self-taught and highly organized 📚, I am always seeking new challenges.
+<p  align="justify"><samp>Passionate about game development, I have worked on projects such as Pokéssonne, a Pokémon version of Carcassonne, and the creation of board game tutorials 🎲. Self-taught and highly organized 📚, I am always seeking new challenges.</samp></p>
 
-I am also fluent in English 🇬🇧 and Spanish 🇪🇸, which allows me to adapt to various professional environments.
+<p  align="justify"><samp>I am also fluent in English 🇬🇧 and Spanish 🇪🇸, which allows me to adapt to various professional environments.</samp></p>
 
-I am actively seeking a project management internship for this summer and open to opportunities in project management and the creative/tech sectors.</samp></p>
+<p  align="justify"><samp>I am actively seeking a project management internship for this summer and open to opportunities in project management and the creative/tech sectors.</samp></p>
 
 ### ![mana simic](https://cubecobra.com/content/symbols/g-u.png) Interests
 
