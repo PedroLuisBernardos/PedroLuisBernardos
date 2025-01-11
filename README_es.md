@@ -12,13 +12,13 @@
 
 ## 👨‍💻 ¿Quien soy?
 
-<p  align="justify"><samp>Actualmente soy estudiante de Maestría en Gestión de Proyectos en la ESG UQAM, con experiencia en DevOps e ingeniería de software. Después de tres años en roles técnicos y organizacionales, estoy buscando expandir mis habilidades en gestión de proyectos, particularmente en los sectores de videojuegos, juegos de mesa, aprendizaje digital y proyectos creativos.
+<p  align="justify"><samp>Actualmente soy estudiante de Maestría en Gestión de Proyectos en la ESG UQAM, con experiencia en DevOps e ingeniería de software. Después de tres años en roles técnicos y organizacionales, estoy buscando expandir mis habilidades en gestión de proyectos, particularmente en los sectores de videojuegos, juegos de mesa, aprendizaje digital y proyectos creativos.</samp></p>
 
-Apasionado por el desarrollo de juegos, he trabajado en proyectos como Pokéssonne, una versión de Pokémon de Carcassonne, y la creación de tutoriales de juegos de mesa 🎲. Autodidacta y muy organizado 📚, siempre estoy en busca de nuevos desafíos.
+<p  align="justify"><samp>Apasionado por el desarrollo de juegos, he trabajado en proyectos como Pokéssonne, una versión de Pokémon de Carcassonne, y la creación de tutoriales de juegos de mesa 🎲. Autodidacta y muy organizado 📚, siempre estoy en busca de nuevos desafíos.</samp></p>
 
-También hablo con fluidez inglés 🇬🇧 y español 🇪🇸, lo que me permite adaptarme a diferentes entornos profesionales.
+<p  align="justify"><samp>También hablo con fluidez inglés 🇬🇧 y español 🇪🇸, lo que me permite adaptarme a diferentes entornos profesionales.</samp></p>
 
-Actualmente estoy buscando una pasantía en gestión de proyectos para este verano y estoy abierto a oportunidades en gestión de proyectos y en los sectores creativos/tecnológicos.</samp></p>
+<p  align="justify"><samp>Actualmente estoy buscando una pasantía en gestión de proyectos para este verano y estoy abierto a oportunidades en gestión de proyectos y en los sectores creativos/tecnológicos.</samp></p>
 
 ### ![mana simic](https://cubecobra.com/content/symbols/g-u.png) Interéses
 
